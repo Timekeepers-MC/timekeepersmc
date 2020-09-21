@@ -1,0 +1,43 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Timekeepers Motorcycle Club"
+themesDir = "themes"
+theme = "hugo-hero-theme"
+
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = "Timekeepers Motorcycle Club is a California-based Enduro Club"
+    meta_og_title = "Timekeepers Motorcycle Club"
+    meta_og_type = "website"
+    meta_og_url = "https://timekeepersmc.com"
+    meta_og_image = ""
+    meta_og_description = "Timekeepers Motorcycle Club Website"
+    meta_twitter_card = "summary"
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
+
+[[menu.main]]
+	name = "About"
+	url = "/about/"
+    weight = 1
+
+[[menu.main]]
+    name = "Events"
+    url = "/events/"
+    weight = 2
+
+[[menu.main]]
+    name = "Meeting Info"
+    url = "/meeting/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"

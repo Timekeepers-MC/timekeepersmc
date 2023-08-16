@@ -6,7 +6,7 @@ button: 'About Us'
 buttonLink: 'about'
 ---
 
-The Timekeepers Motorcycle Club is a group of like-minded individuals who enjoy riding dirt.
+<div class="handlelightbg">The Timekeepers are a group of like-minded individuals who enjoy riding dirt.</div>
 
 
 

@@ -32,3 +32,11 @@ img[alt=SCCA] { width: 20%; }
 img[alt=SBMOTO] { width: 20%; }
 
 span[id=nonum] {display: none; }
+
+.handlelightbg {
+background-color: rgba(0,0,0,.5);
+    color: #fff;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}

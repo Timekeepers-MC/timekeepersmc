@@ -24,3 +24,11 @@ $primary: #636a8a;
 .bg-secondary {
   background-color: $secondary;
 }
+
+img[alt=Flyer] { width: 100%; }
+img[alt=SJBMW] { width: 20%; }
+img[alt=THEMOTORCAFE] { width: 20%; }
+img[alt=SCCA] { width: 20%; }
+img[alt=SBMOTO] { width: 20%; }
+
+span[id=nonum] {display: none; }

@@ -3,8 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/events/ccse-23/</loc>
+    <lastmod>2023-08-09T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/ccse-21/</loc>
+    <lastmod>2021-10-08T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/events/ccse-19/</loc>
     <lastmod>2020-09-21T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/ccse-22/</loc>
   </url>
   
   <url>

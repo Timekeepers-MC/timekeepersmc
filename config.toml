@@ -41,3 +41,6 @@ publishDir = "docs"
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
+
+[markup.goldmark.renderer]
+unsafe= true

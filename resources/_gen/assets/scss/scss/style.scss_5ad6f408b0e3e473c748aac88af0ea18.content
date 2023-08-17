@@ -6083,6 +6083,9 @@ ul.social {
 .bg-secondary {
   background-color: #43454d; }
 
+a {
+  color: #1f1f1f; }
+
 img[alt=Flyer] {
   width: 100%; }
 

@@ -109,7 +109,9 @@ For more info, contact John Clayton @ 408<span id = 'nonum'>23058023482085</span
 
 ### Pro Purse
 
-The 2023 Coyote Creek Sprint Enduro will have a $1500 pro purse. Per AMA regulation, only riders in the A-class are eligible.
+The 2023 Coyote Creek Sprint Enduro will have a $2500 pro purse. Per AMA regulation, only riders in the A-class are eligible.
+
+More information will be posted soon.
 
 ### Additional Info
 

@@ -22,6 +22,14 @@ Metcalf Motorcycle Park
 
 San Jose, CA 95138
 
+### Pre-Entry Links
+
+**NOTE**: If you need to purchase an AMA or D36 one-day event pass, you will need to do so on-site! You can still pre-enter for the race though!
+
+Family Enduro (Saturday): http://www.moto-tally.com/D36/FAME/PreEntry.aspx 
+
+Sprint Enduro (Sunday): https://www.moto-tally.com/D36/Enduro/PreEntry.aspx
+
 ### What is a Sprint Enduro?
 
 See: https://magazine.americanmotorcyclist.com/9453/sprint-enduros-bred-for-speed/
@@ -99,6 +107,10 @@ Saturday Adventure Bike Class presented by San Jose BMW
 
 For more info, contact John Clayton @ 408<span id = 'nonum'>23058023482085</span>-203-7298
 
+### Pro Purse
+
+The 2023 Coyote Creek Sprint Enduro will have a $1500 pro purse. Per AMA regulation, only riders in the A-class are eligible.
+
 ### Additional Info
 
 * $3 from every entry goes to the D36 LAO
@@ -114,19 +126,20 @@ E-Mail: tmc.enduro@gmail.com
 
 ### Event Sponsors
 
-![SJBMW](/sponsors/sjbmw.png)
+![SPONSORLOGO](/sponsors/ABSLogo-1f.png)
+[Another Bike Shop](https://www.anotherbikeshop.com/)
+
+![SPONSORLOGO](/sponsors/sjbmw.png)
 [San Jose BMW Motosport](https://www.sjbmw.com/)
 
-![SBMOTO](/sponsors/sbmoto.png)
+![SPONSORLOGO](/sponsors/scca.jpg)
+[Santa Clara Cycle Accessories](https://santaclaracycle.com/)
+
+![SPONSORLOGO](/sponsors/sbmoto.png)
 [South Bay Moto Performance](https://sbmotoperformance.com/)
 
-![SCCA](/sponsors/scca.jpg)
-[Santa Clara Cycle Accessories](https://santaclaracycle.com/) 
-
-![THEMOTORCAFE](/sponsors/themotorcafe.png)
+![SPONSORLOGO](/sponsors/themotorcafe.png)
 [The Motor Cafe](https://www.themotorcafe.com/)
-
-
 
 ### Flyer 
 ![Flyer](/tmc/ccse23-flyer-1.png)

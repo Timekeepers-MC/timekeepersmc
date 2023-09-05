@@ -116,6 +116,9 @@ E-Mail: tmc.enduro@gmail.com
 ![SPONSORLOGO](/sponsors/ABSLogo-1f.png)
 [Another Bike Shop](https://www.anotherbikeshop.com/)
 
+![SPONSORLOGO](/sponsors/crownmoto.avif)
+[CROWN MOTO](https://crownmoto.com/)
+
 ![SPONSORLOGO](/sponsors/sjbmw.png)
 [San Jose BMW Motosport](https://www.sjbmw.com/)
 

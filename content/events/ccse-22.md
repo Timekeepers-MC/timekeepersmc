@@ -10,6 +10,8 @@ thumbnail: 'tmc/ccse22-flyer-1.png'
 images: []
 ---
 
+### Event Overview
+
 The Coyote Creek Sprint Enduro in 2022 was held at the Metcalf Motorcycle Park.
 
 ### Flyer

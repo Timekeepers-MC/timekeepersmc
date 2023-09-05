@@ -70,28 +70,13 @@ D36 Membership
 ##### Sunday:
 AMA + D36 Membership
 
-## Event Schedule
+### Event Schedule
 
-#### Friday, October 6th, 2023
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=7&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=AGENDA&showNav=0&showDate=0&showTabs=0&showCalendars=1&title=2023%20Coyote%20Creek%20Sprint%20Enduro&src=YTgyZDZkZWJjYTEwZThmNTEzZjRhZjM0NDFiNmVlZDA2MDdmYjM3MTg5M2NiODE3YWFjNmRkZjZhNzIwZmZlNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZjFkZDAxNzc5ZTNmN2I3OGNlMTEyY2E5MmZmNmJkY2Q2OWVlOWUzOTRkNDdiOTY1MGE0NTkzN2I5NWVlZGNkYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F09300&color=%23C0CA33" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-* Gates Open for Camping @ 5 PM - 10 PM
-* Sign-Ups: 6:30 PM - 9 PM
+To view the Saturday Enduro Calendar:  [Google Calendar - Saturday Family Enduro](https://calendar.google.com/calendar/u/4?cid=YTgyZDZkZWJjYTEwZThmNTEzZjRhZjM0NDFiNmVlZDA2MDdmYjM3MTg5M2NiODE3YWFjNmRkZjZhNzIwZmZlNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-#### Saturday, October 7th, 2023 - Family Sprint Enduro
-
-* Gates Open @ 6 AM - 10 PM
-* Sign-Ups (Family Enduro): 6 AM - 9 AM
-* Sign-Ups (Team Race): 2 PM - 3:30 PM
-* Sign-Ups (Sprint Enduro): 6:30 PM - 9 PM
-
-##### Event Times:
-* Family Enduro Start Time: 9:00 AM
-* Team Relay Race: 3:30 PM - 4:30 PM
-
-#### Sunday, October 8th, 2023 - Family Sprint Enduro
-
-* sGates Open @ 6 AM - 6 PM
-* Sign-Ups: 6 AM - 9 AM
+To view the Sunday Calendar: [Google Calendar - Sunday Sprint Enduro](https://calendar.google.com/calendar/u/4?cid=ZjFkZDAxNzc5ZTNmN2I3OGNlMTEyY2E5MmZmNmJkY2Q2OWVlOWUzOTRkNDdiOTY1MGE0NTkzN2I5NWVlZGNkYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ### Format
 

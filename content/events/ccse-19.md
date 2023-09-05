@@ -10,4 +10,6 @@ thumbnail: 'tmc/ccse19-shirt.png'
 images: []
 ---
 
+### Event Overview
+
 The Coyote Creek Sprint Enduro in 2019 was held at the Metcalf Motorcycle Park.

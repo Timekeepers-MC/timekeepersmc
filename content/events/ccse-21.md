@@ -10,6 +10,8 @@ thumbnail: 'tmc/ccse21-flyer-1.png'
 images: []
 ---
 
+### Event Overview
+
 The Coyote Creek Sprint Enduro in 2021 was held at the Metcalf Motorcycle Park.
 
 ### Flyer

@@ -5,6 +5,12 @@
 {{ define "main" }}
 {{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "section" .Section "content" .)}}
 <div class="container pt-4 pt-md-10 pb-4 pb-md-10">
+  <div class="toc">
+    <div class="content">
+  <h3>Quick Links</h3>
+      </div>
+  {{ .TableOfContents }}
+  </div>
   <div class="row justify-content-start">
     <div class="col-10">
       <div class="work work-single">

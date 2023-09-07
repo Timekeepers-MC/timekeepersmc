@@ -119,6 +119,9 @@ E-Mail: tmc.enduro@gmail.com
 ![SPONSORLOGO](/sponsors/crownmoto.avif)
 [CROWN MOTO](https://crownmoto.com/)
 
+![SPONSORLOGO](/sponsors/mx-trophies-logo_stacked.svg)
+[MX TROPHIES](https://mx-trophies.com/)
+
 ![SPONSORLOGO](/sponsors/sjbmw.png)
 [San Jose BMW Motosport](https://www.sjbmw.com/)
 

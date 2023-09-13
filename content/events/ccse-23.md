@@ -134,5 +134,11 @@ E-Mail: tmc.enduro@gmail.com
 ![SPONSORLOGO](/sponsors/themotorcafe.png)
 [The Motor Cafe](https://www.themotorcafe.com/)
 
+![SPONSORLOGO](/sponsors/torque.jpg)
+[Torque Brake Fluid](https://www.torquebrakefluid.com/)
+
+![SPONSORLOGO](/sponsors/tjd.png)
+[Trailjammer Designs](https://www.trailjammerdesigns.com/)
+
 ### Flyer 
 ![Flyer](/tmc/ccse23-flyer-1.png)

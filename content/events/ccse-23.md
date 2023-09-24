@@ -113,32 +113,25 @@ E-Mail: tmc.enduro@gmail.com
 
 ### Event Sponsors
 
-![SPONSORLOGO](/sponsors/ABSLogo-1f.png)
-[Another Bike Shop](https://www.anotherbikeshop.com/)
+[![SPONSORLOGO](/sponsors/ABSLogo-1f.png)Another Bike Shop](https://www.anotherbikeshop.com/)
 
-![SPONSORLOGO](/sponsors/crownmoto.avif)
-[CROWN MOTO](https://crownmoto.com/)
+[![SPONSORLOGO](/sponsors/crownmoto.avif)CROWN MOTO](https://crownmoto.com/)
 
-![SPONSORLOGO](/sponsors/mx-trophies-logo_stacked.svg)
-[MX TROPHIES](https://mx-trophies.com/)
+[![SPONSORLOGO](/sponsors/fsr.jpg)First Statewide Realty](https://www.firststatewiderealty.com/)
 
-![SPONSORLOGO](/sponsors/sjbmw.png)
-[San Jose BMW Motosport](https://www.sjbmw.com/)
+[![SPONSORLOGO](/sponsors/mx-trophies-logo_stacked.svg)MX TROPHIES](https://mx-trophies.com/)
 
-![SPONSORLOGO](/sponsors/scca.jpg)
-[Santa Clara Cycle Accessories](https://santaclaracycle.com/)
+[![SPONSORLOGO](/sponsors/sjbmw.png)San Jose BMW Motosport](https://www.sjbmw.com/)
 
-![SPONSORLOGO](/sponsors/sbmoto.png)
-[South Bay Moto Performance](https://sbmotoperformance.com/)
+[![SPONSORLOGO](/sponsors/scca.jpg)Santa Clara Cycle Accessories](https://santaclaracycle.com/)
 
-![SPONSORLOGO](/sponsors/themotorcafe.png)
-[The Motor Cafe](https://www.themotorcafe.com/)
+[![SPONSORLOGO](/sponsors/sbmoto.png)South Bay Moto Performance](https://sbmotoperformance.com/)
 
-![SPONSORLOGO](/sponsors/torque.jpg)
-[Torque Brake Fluid](https://www.torquebrakefluid.com/)
+[![SPONSORLOGO](/sponsors/themotorcafe.png)The Motor Cafe](https://www.themotorcafe.com/)
 
-![SPONSORLOGO](/sponsors/tjd.png)
-[Trailjammer Designs](https://www.trailjammerdesigns.com/)
+[![SPONSORLOGO](/sponsors/torque.jpg)Torque Brake Fluid](https://www.torquebrakefluid.com/)
+
+[![SPONSORLOGO](/sponsors/tjd.png)Trailjammer Designs](https://www.trailjammerdesigns.com/)
 
 ### Flyer 
 ![Flyer](/tmc/ccse23-flyer-1.png)

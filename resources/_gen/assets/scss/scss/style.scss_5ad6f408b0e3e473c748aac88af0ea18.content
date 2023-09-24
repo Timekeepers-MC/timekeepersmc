@@ -6091,7 +6091,8 @@ img[alt=Flyer] {
   width: 100%; }
 
 img[alt=SPONSORLOGO] {
-  width: 20%; }
+  width: 20%;
+  padding-right: 10px; }
 
 span[id=nonum] {
   display: none; }

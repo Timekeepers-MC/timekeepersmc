@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Timekeepers Motorcycle Club"
 themesDir = "themes"
 theme = "hugo-hero-theme"
-publishDir = "docs"
 [params]
   google_analytics_id=""
 

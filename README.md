@@ -11,7 +11,7 @@ This is a hugo-powered static content site for the Timekeepers MC organization t
 
 ## Initialization
 
-Once cloned, you need to run a `git submodule --init --recursive` to download the `hugo-hero-theme` into the `themes/hugo-hero-theme` or else the preview site will be blank as there is no theme for hugo to work with.
+Once cloned, you need to run a `git submodule update --init --recursive` to download the `hugo-hero-theme` into the `themes/hugo-hero-theme` or else the preview site will be blank as there is no theme for hugo to work with.
 
 ## Previewing Changes
 

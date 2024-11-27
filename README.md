@@ -1,6 +1,6 @@
 # timekeepersmc
 
-This is a hugo-powered static content site for the Timekeepers MC organization that can be viewed at [https://www.timekeepersmc.com](https://www.timekeepersmc.com)
+This is a hugo-powered static content site for the Timekeepers MC organization that can be viewed at [https://timekeepersmc.com](https://timekeepersmc.com)
 
 # Editing
 
